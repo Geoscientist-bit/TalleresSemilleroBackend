@@ -74,8 +74,14 @@ public class App {
         // Ejercicio17 ejercicio17 = new Ejercicio17();
         // ejercicio17.comparacion();
 
-        Ejercicio18 ejercicio18 = new Ejercicio18();
-        ejercicio18.generarContraseña();
+        // Ejercicio18 ejercicio18 = new Ejercicio18();
+        // ejercicio18.generarContraseña();
+
+        // Ejercicio19 ejercicio19 = new Ejercicio19();
+        // ejercicio19.convertirNombre();
+
+        Ejercicio20 ejercicio20 = new Ejercicio20();
+        ejercicio20.invertirOrdenCadena();
 
 
 

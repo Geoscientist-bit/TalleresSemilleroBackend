@@ -89,8 +89,21 @@ public class App {
         // Ejercicio22 ejercicio22 = new Ejercicio22();
         // ejercicio22.palindromo();
 
-        Ejercicio23 ejercicio23 = new Ejercicio23();
-        ejercicio23.countWords();
+        // Ejercicio23 ejercicio23 = new Ejercicio23();
+        // ejercicio23.countWords();
+
+        // Ejercicio24 ejercicio24 = new Ejercicio24();
+        // ejercicio24.reemplazarLetra();
+
+        // Ejercicio25 ejercicio25 = new Ejercicio25();
+        // ejercicio25.separarText();
+
+        // Ejercicio26 ejercicio26 = new Ejercicio26();
+        // ejercicio26.countCharacters();
+
+        Ejercicio27 ejercicio27 = new Ejercicio27();
+        ejercicio27.ordenarAlfabeticamente();
+
 
 
 

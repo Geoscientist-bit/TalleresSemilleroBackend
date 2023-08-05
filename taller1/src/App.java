@@ -101,8 +101,17 @@ public class App {
         // Ejercicio26 ejercicio26 = new Ejercicio26();
         // ejercicio26.countCharacters();
 
-        Ejercicio27 ejercicio27 = new Ejercicio27();
-        ejercicio27.ordenarAlfabeticamente();
+        // Ejercicio27 ejercicio27 = new Ejercicio27();
+        // ejercicio27.ordenarAlfabeticamente();
+
+        // Ejercicio28 ejercicio28 = new Ejercicio28();
+        // ejercicio28.sumarElementos();
+
+        Ejercicio29 ejercicio29 = new Ejercicio29();
+        ejercicio29.buscarNumMayor();
+
+        Ejercicio30 ejercicio30 = new Ejercicio30();
+        ejercicio30.eliminarRepetidos();
 
 
 

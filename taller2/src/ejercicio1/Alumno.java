@@ -12,6 +12,7 @@ import javax.swing.JOptionPane;
 public class Alumno {
     private String nombre;
     private int edad;
+    //private float average;
     ArrayList<Double> calificaciones = new ArrayList<>();
     ArrayList<String> calificaciones2 = new ArrayList<>();
 
@@ -49,6 +50,7 @@ public class Alumno {
     public void setEdad(int edad) {
         this.edad = edad;
     }
+    
 
 
 
@@ -57,8 +59,8 @@ public class Alumno {
 
         int cantCalif = Integer.parseInt(JOptionPane.showInputDialog(null, "Cuantas calificaciones desea ingresar"));
 
-        for (int i = 1; i < cantCalif; i++) {
-            calificaciones.add(Double.parseDouble(JOptionPane.showInputDialog(null, "Ingrese calificacion")));
+        for (int i = 0; i < cantCalif; i++) {
+            calificaciones.add(Double.parseDouble(JOptionPane.showInputDialog(null, "Ingrese calificacion # " + (i + 1))));
             System.out.println(calificaciones);
         }
 
@@ -67,10 +69,10 @@ public class Alumno {
 
         for (Double data : calificaciones) {
             suma += data;
-            System.out.println(suma);
         }
+        System.out.println(suma);
         
-        promedio = suma / calificaciones2.size();
+        promedio = suma / cantCalif;
        
 
         JOptionPane.showMessageDialog(null, " nombre " + this.getNombre() + " edad " + this.getEdad() + " promedio " + promedio);
@@ -78,9 +80,6 @@ public class Alumno {
 
     }
 
-    // public void mostrarDatos() {
-        
-    // }
-
+    
 
 }

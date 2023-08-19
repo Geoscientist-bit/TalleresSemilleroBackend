@@ -107,11 +107,13 @@ public class App {
         // Ejercicio28 ejercicio28 = new Ejercicio28();
         // ejercicio28.sumarElementos();
 
-        Ejercicio29 ejercicio29 = new Ejercicio29();
-        ejercicio29.buscarNumMayor();
+        // Ejercicio29 ejercicio29 = new Ejercicio29();
+        // ejercicio29.buscarNumMayor();
 
         Ejercicio30 ejercicio30 = new Ejercicio30();
         ejercicio30.eliminarRepetidos();
+
+        
 
 
 

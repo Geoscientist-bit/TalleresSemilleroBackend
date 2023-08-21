@@ -110,8 +110,11 @@ public class App {
         // Ejercicio29 ejercicio29 = new Ejercicio29();
         // ejercicio29.buscarNumMayor();
 
-        Ejercicio30 ejercicio30 = new Ejercicio30();
-        ejercicio30.eliminarRepetidos();
+        // Ejercicio30 ejercicio30 = new Ejercicio30();
+        // ejercicio30.eliminarRepetidos();
+
+        Ejercicio31 ejercicio31 = new Ejercicio31();
+        ejercicio31.BubbleOrdering();
 
         
 

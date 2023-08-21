@@ -119,8 +119,11 @@ public class App {
         // Ejercicio32 ejercicio32 = new Ejercicio32();
         // ejercicio32.searchIndex();
 
-        Ejercicio33 ejercicio33 = new Ejercicio33();
-        ejercicio33.frecuency();
+        // Ejercicio33 ejercicio33 = new Ejercicio33();
+        // ejercicio33.frecuency();
+
+        Ejercicio34 ejercicio34 = new Ejercicio34();
+        ejercicio34.rotate();
 
         
 

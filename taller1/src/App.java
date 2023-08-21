@@ -122,8 +122,11 @@ public class App {
         // Ejercicio33 ejercicio33 = new Ejercicio33();
         // ejercicio33.frecuency();
 
-        Ejercicio34 ejercicio34 = new Ejercicio34();
-        ejercicio34.rotate();
+        // Ejercicio34 ejercicio34 = new Ejercicio34();
+        // ejercicio34.rotate();
+
+        Ejercicio35 ejercicio35 = new Ejercicio35();
+        ejercicio35.multiplicationTable();
 
         
 

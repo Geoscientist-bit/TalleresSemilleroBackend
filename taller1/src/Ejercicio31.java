@@ -2,7 +2,7 @@
  * 31.	Ordenar elementos: Implementa un algoritmo de ordenamiento (por ejemplo, el algoritmo de burbuja o el de selección) para ordenar un arreglo de enteros de manera ascendente.
  */
 
-import javax.swing.JOptionPane;
+
 
 public class Ejercicio31 {
     int[] intNumbers = { 1, 3, 5, 6, 7, 8, 2, 10, 3 };

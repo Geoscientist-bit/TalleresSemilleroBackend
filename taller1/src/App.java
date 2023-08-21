@@ -113,8 +113,11 @@ public class App {
         // Ejercicio30 ejercicio30 = new Ejercicio30();
         // ejercicio30.eliminarRepetidos();
 
-        Ejercicio31 ejercicio31 = new Ejercicio31();
-        ejercicio31.BubbleOrdering();
+        // Ejercicio31 ejercicio31 = new Ejercicio31();
+        // ejercicio31.BubbleOrdering();
+
+        Ejercicio32 ejercicio32 = new Ejercicio32();
+        ejercicio32.searchIndex();
 
         
 
